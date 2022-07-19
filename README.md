@@ -1,3 +1,6 @@
+## READ PLEASE!
+This is only for 3.93 and below! this was built a while ago before growtopia moved to HTTPS.
+
 ## Releases:
 
 # V1.0.1
